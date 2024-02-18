@@ -1,0 +1,27 @@
+WorkCode,Role,Status
+1,President,E
+4,Editor-in-Chief,E
+7,Chief Digital Officer,E
+10,Managing Editor,E
+13,Contributing Editor,IC
+16,Editorial Director,E
+19,Content Editor,E
+22,Content Manager,E
+25,Document Acquisition Specialists,IC
+28,Senior Editor News Desk,E
+31,News Editors,E
+34,Senior National Correspondent,E
+37,Staff Correspondents,E
+40,Special Correspondents,IC
+43,Blog Editor,E
+46,Managing Blog Editor,E
+49,Copy Editor,E
+52,Blog Special Contributors,IC
+55,Digital Platform Director,E
+58,Multimedia Manager,E
+61,Multimedia Designer,E
+64,Photo Editor,E
+67,Contributing Photographers,IC
+70,Video Producer,E
+73,Contributing Videographers,IC
+76,Podcast Producer,E

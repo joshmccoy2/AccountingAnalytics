@@ -1,0 +1,21 @@
+PayItemID,PayItemName,PayItemDescription,PayItemRate,VariableRate
+1,monthlyArticle,Monthly news column,1500,
+2,document,Document acquired from organization,5,
+3,pageScanned,Page scanned for submission,0.5,
+4,hourlyBasePay,"10 hrs/week, 2hrs/day pay even if no documents",15,
+5,weeklyNews,Weekly news story,200,
+6,weeklyBlog,Weekly blog post,200,
+7,photograph,Photograph for news service,50,
+8,photoSession,Photo shoot session,150,
+9,video,Video for news service,100,
+10,videoSession,Video shoot session,400,
+11,basePay,Weekly base pay for availability: Special and Blog Contributors,200,
+12,training - basePay,Per hour pay. Max 8 hours for startup.,25,
+13,officeEquip - laptop,Company-owned office equipment,,$400-$600
+14,mileage,Reimbursable mileage between sites,,
+15,parking,Parking fees at sites,,
+16,training - airFare,Travel to the training city,,$250-$570
+17,training - meals,Out of pocket meals during training,,Per Diem
+18,training - lodging,Lodging during training,,Per Diem
+19,officeEquip - scanner,Company-owned office equipment,,$280-$320
+20,officeEquip - tablet,Company-owned office equipment,,$200-$450
